@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Generative AI & LLM**
 
-- 👨‍💻 Check out my [Digital Profile](http://dharmik.streamlit.app/)
+- 👨‍💻 Check out my [Digital Profile](https://dharmikm9.github.io/digital-profile/)
 
 - 💬 Ask me about **ML, NLP & GenAI**
 
